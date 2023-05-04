@@ -1,2 +1,1 @@
-# datacamp-project-01-netflix
- 
+# DataCamp Projects: 01 - Investigating Netflix Movies
