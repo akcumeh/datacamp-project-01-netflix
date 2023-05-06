@@ -13,7 +13,6 @@ _DataCamp Project Series_ is a series of the major projects completed under the 
     - [Findings](#what-i-learned)
     - [Conclusion](#conclusion)
 - [Relevant Links](#links)
-- [Fun Stuff](#fun-stuff)
 
 ## Introduction
 
@@ -84,23 +83,3 @@ Relevant links to the project:
 Thanks for reading this far! Follow me:
 - [Twitter](https://twitter.com/akcumeh)
 - [GitHub](https://github.com/akcumeh)
-
-## Fun Stuff
-
-This section contains random, mildly? interesting information about this project. I left it at the end because it just feels like the right place. If you have a minute or two to waste, feel free to proceed!
-
-* **Lines of code:**
-> **_32_**
-
-This project has **65** total lines of code. Excluding comments, empty lines, and other such things left in for readability, the project contains only _**32**_ functional lines of code.
-
-* **Code runtime:**
-> **_211.365s_**
-
-[`analyzer.py`](analyzer.py) took **211.365s** to run on my PC. Probably because I had a lot of other resource-intensive things up on my system at the same time that I ran the code. Heh.
-![Code runtime screenshot](images/code%20running.png)
-
-* **Libraries/modules imported:**
-> 2: `pandas`, `matplotlib.pyplot`
-
-I don't even know how this is interesting in any way. Anyways `pandas` was used just twice while `pyplot` was used thirteen times.
