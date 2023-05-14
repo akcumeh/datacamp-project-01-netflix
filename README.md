@@ -1,6 +1,6 @@
 # DataCamp Projects Series: 01 - Investigating Netflix Movies
 
-_DataCamp Project Series_ is a series of the major projects completed under the DataCamp [**Data Scientist with Python**](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python) track.
+_DataCamp Project Series_ is a series of the major projects I completed under the DataCamp [**Data Scientist with Python**](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python) track.
 
 ## Table of contents
 - [Introduction](#introduction)
